@@ -55,6 +55,8 @@ process {
     else {
         Write-Host "Git is installed."
     }
+
+    Write-Host "All pre-requisites checks are done."
     
     try {
 
